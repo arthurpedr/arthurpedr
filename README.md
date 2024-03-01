@@ -1,4 +1,4 @@
-Olá, Me chamo pedro.
+Olá, My chamo pedro.
 
 Atualmete, Estou cursando C&T-Ciência e Tecnologia, na Universidade Federal Rural do Semi-Árido |UFERSA|
 
