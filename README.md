@@ -1,6 +1,6 @@
-Olá, Me chamo pedro.
+Hello, my name is pedro.
 
-Atualmete, Estou cursando C&T-Ciência e Tecnologia, na Universidade Federal Rural do Semi-Árido |UFERSA|
+At the moment, i'm studying C&T-Science e Technology, At the Federal university of semiarid |UFERSA|
 
 -Loading...
   
