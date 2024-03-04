@@ -1,6 +1,6 @@
 Hello, my name is pedro.
 
-At the moment, i'm studying C&T-Science e Technology, At the Federal university of semiarid |UFERSA|
+At the moment, i'm studying C&T-Science e Technology, At the rural Federal university of semiarid |UFERSA|
 
 -Loading...
   
