@@ -8,7 +8,7 @@ At the moment, i'm studying C&T-Science e Technology, At the rural Federal unive
 <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpedr&layout=compact&theme=radical)
   
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 APRENDENDO
 
