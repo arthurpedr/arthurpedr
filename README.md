@@ -16,5 +16,9 @@ At the moment, i'm studying C&T-Science e Technology, At the rural Federal unive
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 
 ## Contact
-- [Instagram](https://www.instagram.com/pedro_marrtins/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_marrtins/)
+
+
+
 
