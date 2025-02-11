@@ -5,7 +5,8 @@ At the moment, i'm studying C&T-Science e Technology, At the rural Federal unive
 ## Loading...
 
 ![arthurpedr GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurpedr&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpedr&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpedr&layout=compact&theme=radical&cache_seconds=3600)
+
 
 <div style="display: flex; align-items: center; gap: 10;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
