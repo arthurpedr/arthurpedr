@@ -6,7 +6,7 @@ I am a front-end developer with a strong passion for designing and developing in
 ## Loading...
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=arthurpedr&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.vercel.app/?user=arthurpedr&theme=dark&locale=pt_BR)](https://git.io/streak-stats) &nbsp;
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpedr&layout=compact&theme=dark&cache_seconds=3600)
 
 
